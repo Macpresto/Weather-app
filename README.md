@@ -1,5 +1,12 @@
-# Weather-app
 # A Weather webapp
 A weather web-app built using javascript and bootstrap
+
+### ⚡️ features
+- ❄️ display temperature
+- 🌓 display nigh/day time
+- ⛅️ search current weather of cities
+
+[<img src="https://github.com/Macpresto/Weather-app/blob/main/Screenshot%202023-02-14%20at%2011.36.48%20AM.png">]
+
 access at https://macpresto.github.io/Weather-app/
 

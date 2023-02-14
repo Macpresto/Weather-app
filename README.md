@@ -8,7 +8,7 @@ A weather web-app built using javascript and bootstrap
 
 access at https://macpresto.github.io/Weather-app/
 
-<img src="https://github.com/Macpresto/Weather-app/blob/main/Screenshot%202023-02-14%20at%2011.36.48%20AM.png.type" width="700" height="375">
+<img src="https://github.com/Macpresto/Weather-app/blob/main/Screenshot%202023-02-14%20at%2011.36.48%20AM.png" width="700" height="375">
 
 
 
